@@ -1,0 +1,4 @@
+# for big files
+**/*/*.zip
+**/*/*.h5
+**/*/*.csv
